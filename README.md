@@ -58,5 +58,4 @@ After cleaning, I ran multiple analytical queries to find insights within the da
 ---
 
 ## Author
-* GitHub Profile: [War-DataSolutions](http://github.com
-* Git Hub Profile: [War-DataSolutions](https://github.com)
+* GitHub Profile: [War-DataSolutions](http://github.com)
